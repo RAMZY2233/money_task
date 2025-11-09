@@ -1,0 +1,6 @@
+da{
+  "currency": "USD",
+  "monthly_income": "3500",
+  "expenses": { "rent": "1200", "groceries": "350", "utilities": "150" },
+  "monthly_savings_goal": "400"
+}
