@@ -1,4 +1,4 @@
-from decimal import Decimal
+ from decimal import Decimal
 import pytest
 
 from budget import compute_report, SAMPLE
